@@ -10,8 +10,8 @@ export default function WeatherReactLinks (){
             <a href="https://github.com/Primabratinella/4week-weather-app.git" target="blank">
             Github {}
             </a>
-            and website hosted on {}
-            <a href="..." target="blank">
+            and hosted on {}
+            <a href="https://4weekweatherreactapp.netlify.app/" target="blank">
                 Netlify
             </a>
         </footer>

@@ -11,7 +11,7 @@ export default function WeatherReactLinks (){
             Github {}
             </a>
             and hosted on {}
-            <a href="https://4weekweatherreactapp.netlify.app/" target="blank">
+            <a href="https://app.netlify.com/sites/4weekweatherreactapp/overview" target="blank">
                 Netlify
             </a>
         </footer>

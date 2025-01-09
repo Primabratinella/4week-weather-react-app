@@ -7,7 +7,7 @@ export default function WeatherReactLinks (){
             Karen Berglund
             </a>
             , open sourced on {}
-            <a href="https://github.com/Primabratinella/4week-weather-app.git" target="blank">
+            <a href="https://github.com/Primabratinella/4week-weather-react-app.git" target="blank">
             Github {}
             </a>
             and hosted on {}
